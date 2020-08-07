@@ -1,0 +1,24 @@
+db.itemStoreInfo.insert({
+  "productId": 1,
+  "storeId": 101,
+  "storeName": "Stuff Mart",
+  "sellerName": "Shaveah Tranea",
+  "totalStoreItems": 6,
+  "totalStoreSales": 114,
+  "onEtsySince": 2015,
+  "basedIn": "Seattle, WA",
+  "sellerResponseTime": "1-2 hours"
+})
+
+db.itemStoreInfo.insert({
+  "productId": 2,
+  "storeId": 102,
+  "storeName": "Stuffingtons",
+  "sellerName": "Ashley Marie",
+  "totalStoreItems": 4,
+  "totalStoreSales": 25,
+  "onEtsySince": 2020,
+  "basedIn": "Salem, OR",
+  "sellerResponseTime": "1-2 hours"
+})
+
