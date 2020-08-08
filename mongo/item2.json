@@ -1,11 +1,12 @@
 {
   "product_id": 2,
-  "store_id": 104,
-  "store_name": "Reichel Group",
+  "store_id": 109,
+  "store_name": "Lockman Group",
   "seller_name": "AshleyMarie",
-  "total_store_items": 9,
-  "total_store_sales": 1016,
-  "on_etsy_since": 2011,
-  "based_in": "Salem",
-  "seller_response_time": "1-2 hours"
+  "total_store_items": 3,
+  "total_store_sales": 887,
+  "on_etsy_since": 2013,
+  "based_in_city": "Vancouver",
+  "based_in_state": "WA",
+  "seller_response_time": "24 hours"
 }
