@@ -1,0 +1,1001 @@
+[{
+  "product_id": 1,
+  "store_id": 103,
+  "store_name": "Buckridge and Sons",
+  "seller_name": "csjollema0",
+  "total_store_items": 6,
+  "total_store_sales": 24,
+  "on_etsy_since": 2015,
+  "based_in": "Wichita",
+  "seller_response_time": "non mattis"
+}, {
+  "product_id": 2,
+  "store_id": 104,
+  "store_name": "Reichel Group",
+  "seller_name": "lelrick1",
+  "total_store_items": 9,
+  "total_store_sales": 1016,
+  "on_etsy_since": 2011,
+  "based_in": "Skerries",
+  "seller_response_time": "leo maecenas"
+}, {
+  "product_id": 3,
+  "store_id": 109,
+  "store_name": "Graham and Sons",
+  "seller_name": "ccoston2",
+  "total_store_items": 8,
+  "total_store_sales": 1456,
+  "on_etsy_since": 2010,
+  "based_in": "Gaojiazhuang",
+  "seller_response_time": "pharetra magna"
+}, {
+  "product_id": 4,
+  "store_id": 107,
+  "store_name": "Connelly, Dooley and Krajcik",
+  "seller_name": "jwatkiss3",
+  "total_store_items": 11,
+  "total_store_sales": 541,
+  "on_etsy_since": 2016,
+  "based_in": "Gaoqiu",
+  "seller_response_time": "justo sit"
+}, {
+  "product_id": 5,
+  "store_id": 105,
+  "store_name": "Schmidt, Schowalter and Lehner",
+  "seller_name": "iqueen4",
+  "total_store_items": 9,
+  "total_store_sales": 946,
+  "on_etsy_since": 2014,
+  "based_in": "Ubrub",
+  "seller_response_time": "at dolor"
+}, {
+  "product_id": 6,
+  "store_id": 107,
+  "store_name": "Gerlach, Hyatt and Treutel",
+  "seller_name": "lschnitter5",
+  "total_store_items": 4,
+  "total_store_sales": 1342,
+  "on_etsy_since": 2015,
+  "based_in": "Tandil",
+  "seller_response_time": "sollicitudin ut"
+}, {
+  "product_id": 7,
+  "store_id": 102,
+  "store_name": "Olson and Sons",
+  "seller_name": "mgallen6",
+  "total_store_items": 4,
+  "total_store_sales": 864,
+  "on_etsy_since": 2010,
+  "based_in": "Sok Kwu Wan",
+  "seller_response_time": "id turpis"
+}, {
+  "product_id": 8,
+  "store_id": 110,
+  "store_name": "Steuber Inc",
+  "seller_name": "rdargan7",
+  "total_store_items": 5,
+  "total_store_sales": 981,
+  "on_etsy_since": 2014,
+  "based_in": "Alto del Espino",
+  "seller_response_time": "id sapien"
+}, {
+  "product_id": 9,
+  "store_id": 108,
+  "store_name": "Keebler-Denesik",
+  "seller_name": "mdelap8",
+  "total_store_items": 4,
+  "total_store_sales": 1023,
+  "on_etsy_since": 2013,
+  "based_in": "Xuanhuadian",
+  "seller_response_time": "mauris laoreet"
+}, {
+  "product_id": 10,
+  "store_id": 102,
+  "store_name": "Halvorson, Christiansen and Davis",
+  "seller_name": "lcrane9",
+  "total_store_items": 2,
+  "total_store_sales": 100,
+  "on_etsy_since": 2008,
+  "based_in": "Lyubymivka",
+  "seller_response_time": "neque duis"
+}, {
+  "product_id": 11,
+  "store_id": 104,
+  "store_name": "Hyatt Inc",
+  "seller_name": "talabastera",
+  "total_store_items": 4,
+  "total_store_sales": 1163,
+  "on_etsy_since": 2014,
+  "based_in": "Zaleszany",
+  "seller_response_time": "morbi non"
+}, {
+  "product_id": 12,
+  "store_id": 103,
+  "store_name": "Denesik, Mueller and Macejkovic",
+  "seller_name": "gallanb",
+  "total_store_items": 9,
+  "total_store_sales": 1116,
+  "on_etsy_since": 2008,
+  "based_in": "Bayt Maqdūm",
+  "seller_response_time": "nulla pede"
+}, {
+  "product_id": 13,
+  "store_id": 102,
+  "store_name": "Reilly, Runolfsson and Durgan",
+  "seller_name": "emolianc",
+  "total_store_items": 2,
+  "total_store_sales": 945,
+  "on_etsy_since": 2014,
+  "based_in": "Lenger",
+  "seller_response_time": "id lobortis"
+}, {
+  "product_id": 14,
+  "store_id": 103,
+  "store_name": "Kshlerin Group",
+  "seller_name": "gmarsd",
+  "total_store_items": 4,
+  "total_store_sales": 828,
+  "on_etsy_since": 2016,
+  "based_in": "Tianzhen",
+  "seller_response_time": "pede ac"
+}, {
+  "product_id": 15,
+  "store_id": 105,
+  "store_name": "Stanton-Herzog",
+  "seller_name": "owhitene",
+  "total_store_items": 7,
+  "total_store_sales": 532,
+  "on_etsy_since": 2014,
+  "based_in": "Paita",
+  "seller_response_time": "in ante"
+}, {
+  "product_id": 16,
+  "store_id": 105,
+  "store_name": "Ernser, Turcotte and Bashirian",
+  "seller_name": "egreensetf",
+  "total_store_items": 2,
+  "total_store_sales": 250,
+  "on_etsy_since": 2009,
+  "based_in": "Dian-ay",
+  "seller_response_time": "gravida nisi"
+}, {
+  "product_id": 17,
+  "store_id": 101,
+  "store_name": "Paucek-Mills",
+  "seller_name": "jacorsg",
+  "total_store_items": 4,
+  "total_store_sales": 1001,
+  "on_etsy_since": 2020,
+  "based_in": "Zakamensk",
+  "seller_response_time": "vestibulum aliquet"
+}, {
+  "product_id": 18,
+  "store_id": 108,
+  "store_name": "Mueller and Sons",
+  "seller_name": "edallinderh",
+  "total_store_items": 9,
+  "total_store_sales": 475,
+  "on_etsy_since": 2019,
+  "based_in": "Madalena",
+  "seller_response_time": "quis odio"
+}, {
+  "product_id": 19,
+  "store_id": 103,
+  "store_name": "Rodriguez Group",
+  "seller_name": "gpywelli",
+  "total_store_items": 10,
+  "total_store_sales": 171,
+  "on_etsy_since": 2018,
+  "based_in": "Aquidauana",
+  "seller_response_time": "et ultrices"
+}, {
+  "product_id": 20,
+  "store_id": 104,
+  "store_name": "Durgan Group",
+  "seller_name": "ntimlettj",
+  "total_store_items": 9,
+  "total_store_sales": 324,
+  "on_etsy_since": 2016,
+  "based_in": "Raoyang",
+  "seller_response_time": "interdum venenatis"
+}, {
+  "product_id": 21,
+  "store_id": 103,
+  "store_name": "Mohr and Sons",
+  "seller_name": "cbartalink",
+  "total_store_items": 10,
+  "total_store_sales": 344,
+  "on_etsy_since": 2016,
+  "based_in": "Hamberang Sabrang",
+  "seller_response_time": "ut dolor"
+}, {
+  "product_id": 22,
+  "store_id": 104,
+  "store_name": "McCullough-Harvey",
+  "seller_name": "ktarverl",
+  "total_store_items": 3,
+  "total_store_sales": 309,
+  "on_etsy_since": 2013,
+  "based_in": "Windusakti Hilir",
+  "seller_response_time": "consequat ut"
+}, {
+  "product_id": 23,
+  "store_id": 105,
+  "store_name": "Bins and Sons",
+  "seller_name": "wboyfieldm",
+  "total_store_items": 11,
+  "total_store_sales": 798,
+  "on_etsy_since": 2012,
+  "based_in": "Škofljica",
+  "seller_response_time": "sapien sapien"
+}, {
+  "product_id": 24,
+  "store_id": 107,
+  "store_name": "O'Kon-Grant",
+  "seller_name": "hbursnelln",
+  "total_store_items": 3,
+  "total_store_sales": 674,
+  "on_etsy_since": 2018,
+  "based_in": "Chenggang",
+  "seller_response_time": "vulputate vitae"
+}, {
+  "product_id": 25,
+  "store_id": 103,
+  "store_name": "Green Group",
+  "seller_name": "rfearyo",
+  "total_store_items": 4,
+  "total_store_sales": 124,
+  "on_etsy_since": 2014,
+  "based_in": "Dagua",
+  "seller_response_time": "maecenas rhoncus"
+}, {
+  "product_id": 26,
+  "store_id": 110,
+  "store_name": "Beatty Inc",
+  "seller_name": "bkiljanp",
+  "total_store_items": 2,
+  "total_store_sales": 331,
+  "on_etsy_since": 2010,
+  "based_in": "Mayorga",
+  "seller_response_time": "mauris non"
+}, {
+  "product_id": 27,
+  "store_id": 101,
+  "store_name": "Pouros, Ward and Stamm",
+  "seller_name": "aigguldenq",
+  "total_store_items": 3,
+  "total_store_sales": 477,
+  "on_etsy_since": 2016,
+  "based_in": "Sydney",
+  "seller_response_time": "convallis eget"
+}, {
+  "product_id": 28,
+  "store_id": 106,
+  "store_name": "Jenkins and Sons",
+  "seller_name": "hnezeyr",
+  "total_store_items": 5,
+  "total_store_sales": 958,
+  "on_etsy_since": 2016,
+  "based_in": "Mulandoro",
+  "seller_response_time": "et magnis"
+}, {
+  "product_id": 29,
+  "store_id": 108,
+  "store_name": "Weissnat Group",
+  "seller_name": "jfratsons",
+  "total_store_items": 3,
+  "total_store_sales": 547,
+  "on_etsy_since": 2008,
+  "based_in": "Paulpietersburg",
+  "seller_response_time": "amet consectetuer"
+}, {
+  "product_id": 30,
+  "store_id": 109,
+  "store_name": "Bailey, Mayer and Maggio",
+  "seller_name": "amilt",
+  "total_store_items": 9,
+  "total_store_sales": 577,
+  "on_etsy_since": 2017,
+  "based_in": "Gharavŭtí",
+  "seller_response_time": "cras in"
+}, {
+  "product_id": 31,
+  "store_id": 107,
+  "store_name": "Hettinger-Conroy",
+  "seller_name": "eeadsu",
+  "total_store_items": 8,
+  "total_store_sales": 1487,
+  "on_etsy_since": 2016,
+  "based_in": "Tarub",
+  "seller_response_time": "quis odio"
+}, {
+  "product_id": 32,
+  "store_id": 108,
+  "store_name": "Grimes-Nitzsche",
+  "seller_name": "ndreverv",
+  "total_store_items": 7,
+  "total_store_sales": 1163,
+  "on_etsy_since": 2010,
+  "based_in": "Dykan’ka",
+  "seller_response_time": "accumsan tortor"
+}, {
+  "product_id": 33,
+  "store_id": 106,
+  "store_name": "Morar, Homenick and Bayer",
+  "seller_name": "arobilliardw",
+  "total_store_items": 3,
+  "total_store_sales": 185,
+  "on_etsy_since": 2008,
+  "based_in": "Kyzyl-Kyya",
+  "seller_response_time": "dui nec"
+}, {
+  "product_id": 34,
+  "store_id": 107,
+  "store_name": "Upton, Sipes and Becker",
+  "seller_name": "rluckwellx",
+  "total_store_items": 4,
+  "total_store_sales": 536,
+  "on_etsy_since": 2018,
+  "based_in": "Ganting",
+  "seller_response_time": "ac consequat"
+}, {
+  "product_id": 35,
+  "store_id": 101,
+  "store_name": "Hackett, Kohler and Barton",
+  "seller_name": "amartynikhiny",
+  "total_store_items": 7,
+  "total_store_sales": 176,
+  "on_etsy_since": 2019,
+  "based_in": "Springfield",
+  "seller_response_time": "ipsum ac"
+}, {
+  "product_id": 36,
+  "store_id": 109,
+  "store_name": "Veum and Sons",
+  "seller_name": "adilliwayz",
+  "total_store_items": 11,
+  "total_store_sales": 873,
+  "on_etsy_since": 2015,
+  "based_in": "Fray Luis A. Beltrán",
+  "seller_response_time": "lectus in"
+}, {
+  "product_id": 37,
+  "store_id": 108,
+  "store_name": "Emmerich, O'Kon and Hamill",
+  "seller_name": "bkleinholz10",
+  "total_store_items": 8,
+  "total_store_sales": 1253,
+  "on_etsy_since": 2015,
+  "based_in": "Bhāndāria",
+  "seller_response_time": "orci luctus"
+}, {
+  "product_id": 38,
+  "store_id": 107,
+  "store_name": "Kozey Inc",
+  "seller_name": "cyellowley11",
+  "total_store_items": 4,
+  "total_store_sales": 546,
+  "on_etsy_since": 2018,
+  "based_in": "Badou",
+  "seller_response_time": "at dolor"
+}, {
+  "product_id": 39,
+  "store_id": 107,
+  "store_name": "Harris Inc",
+  "seller_name": "gcuree12",
+  "total_store_items": 9,
+  "total_store_sales": 1270,
+  "on_etsy_since": 2015,
+  "based_in": "Shaxi",
+  "seller_response_time": "nec condimentum"
+}, {
+  "product_id": 40,
+  "store_id": 104,
+  "store_name": "Brekke Group",
+  "seller_name": "elenden13",
+  "total_store_items": 4,
+  "total_store_sales": 12,
+  "on_etsy_since": 2016,
+  "based_in": "Rogongon",
+  "seller_response_time": "phasellus id"
+}, {
+  "product_id": 41,
+  "store_id": 102,
+  "store_name": "Stamm-Borer",
+  "seller_name": "gbrimacombe14",
+  "total_store_items": 8,
+  "total_store_sales": 983,
+  "on_etsy_since": 2019,
+  "based_in": "Luxi",
+  "seller_response_time": "aliquet massa"
+}, {
+  "product_id": 42,
+  "store_id": 107,
+  "store_name": "O'Keefe, Corwin and Wisozk",
+  "seller_name": "fvalintine15",
+  "total_store_items": 7,
+  "total_store_sales": 631,
+  "on_etsy_since": 2017,
+  "based_in": "Korenëvo",
+  "seller_response_time": "sapien quis"
+}, {
+  "product_id": 43,
+  "store_id": 109,
+  "store_name": "Maggio LLC",
+  "seller_name": "amallard16",
+  "total_store_items": 2,
+  "total_store_sales": 630,
+  "on_etsy_since": 2015,
+  "based_in": "Armação de Búzios",
+  "seller_response_time": "sed nisl"
+}, {
+  "product_id": 44,
+  "store_id": 109,
+  "store_name": "Jacobson LLC",
+  "seller_name": "fgyppes17",
+  "total_store_items": 8,
+  "total_store_sales": 159,
+  "on_etsy_since": 2018,
+  "based_in": "Rixi",
+  "seller_response_time": "purus sit"
+}, {
+  "product_id": 45,
+  "store_id": 109,
+  "store_name": "Cronin-Mayert",
+  "seller_name": "aminchell18",
+  "total_store_items": 2,
+  "total_store_sales": 987,
+  "on_etsy_since": 2017,
+  "based_in": "Pangkalanbunut",
+  "seller_response_time": "eget tempus"
+}, {
+  "product_id": 46,
+  "store_id": 101,
+  "store_name": "Johnston Group",
+  "seller_name": "ddarlington19",
+  "total_store_items": 8,
+  "total_store_sales": 1463,
+  "on_etsy_since": 2013,
+  "based_in": "Kunsan",
+  "seller_response_time": "vehicula condimentum"
+}, {
+  "product_id": 47,
+  "store_id": 101,
+  "store_name": "Lind, Kunze and Grimes",
+  "seller_name": "gclifft1a",
+  "total_store_items": 11,
+  "total_store_sales": 477,
+  "on_etsy_since": 2019,
+  "based_in": "Kapshagay",
+  "seller_response_time": "urna pretium"
+}, {
+  "product_id": 48,
+  "store_id": 103,
+  "store_name": "Murphy, Lubowitz and Mertz",
+  "seller_name": "bsawforde1b",
+  "total_store_items": 8,
+  "total_store_sales": 933,
+  "on_etsy_since": 2008,
+  "based_in": "Isojoki",
+  "seller_response_time": "augue vel"
+}, {
+  "product_id": 49,
+  "store_id": 104,
+  "store_name": "Walker-Hills",
+  "seller_name": "kpimblett1c",
+  "total_store_items": 7,
+  "total_store_sales": 925,
+  "on_etsy_since": 2020,
+  "based_in": "Purwodadi",
+  "seller_response_time": "justo etiam"
+}, {
+  "product_id": 50,
+  "store_id": 101,
+  "store_name": "Bartell-Yost",
+  "seller_name": "eengall1d",
+  "total_store_items": 4,
+  "total_store_sales": 1398,
+  "on_etsy_since": 2017,
+  "based_in": "Krasnyy Oktyabr’",
+  "seller_response_time": "porta volutpat"
+}, {
+  "product_id": 51,
+  "store_id": 102,
+  "store_name": "Torphy, Ernser and Haley",
+  "seller_name": "sabdey1e",
+  "total_store_items": 11,
+  "total_store_sales": 694,
+  "on_etsy_since": 2016,
+  "based_in": "Masipi West",
+  "seller_response_time": "id massa"
+}, {
+  "product_id": 52,
+  "store_id": 103,
+  "store_name": "Kessler-Crooks",
+  "seller_name": "ecordell1f",
+  "total_store_items": 3,
+  "total_store_sales": 28,
+  "on_etsy_since": 2014,
+  "based_in": "Ilembula",
+  "seller_response_time": "penatibus et"
+}, {
+  "product_id": 53,
+  "store_id": 108,
+  "store_name": "Pfeffer-Prosacco",
+  "seller_name": "eravel1g",
+  "total_store_items": 10,
+  "total_store_sales": 735,
+  "on_etsy_since": 2014,
+  "based_in": "Boisbriand",
+  "seller_response_time": "id mauris"
+}, {
+  "product_id": 54,
+  "store_id": 108,
+  "store_name": "Lind, Dare and Reynolds",
+  "seller_name": "rhatherleigh1h",
+  "total_store_items": 2,
+  "total_store_sales": 722,
+  "on_etsy_since": 2008,
+  "based_in": "Wairiang",
+  "seller_response_time": "cum sociis"
+}, {
+  "product_id": 55,
+  "store_id": 107,
+  "store_name": "Beier-Mitchell",
+  "seller_name": "scurless1i",
+  "total_store_items": 9,
+  "total_store_sales": 263,
+  "on_etsy_since": 2009,
+  "based_in": "Beitai",
+  "seller_response_time": "id turpis"
+}, {
+  "product_id": 56,
+  "store_id": 108,
+  "store_name": "Sipes Group",
+  "seller_name": "srayman1j",
+  "total_store_items": 10,
+  "total_store_sales": 632,
+  "on_etsy_since": 2008,
+  "based_in": "Komprachcice",
+  "seller_response_time": "sed nisl"
+}, {
+  "product_id": 57,
+  "store_id": 101,
+  "store_name": "Konopelski, Schuppe and Hyatt",
+  "seller_name": "bgebhardt1k",
+  "total_store_items": 7,
+  "total_store_sales": 434,
+  "on_etsy_since": 2016,
+  "based_in": "Nueve de Julio",
+  "seller_response_time": "morbi non"
+}, {
+  "product_id": 58,
+  "store_id": 101,
+  "store_name": "Bergnaum, Corkery and Moore",
+  "seller_name": "dsinderson1l",
+  "total_store_items": 5,
+  "total_store_sales": 574,
+  "on_etsy_since": 2012,
+  "based_in": "Karangranjong",
+  "seller_response_time": "ipsum primis"
+}, {
+  "product_id": 59,
+  "store_id": 108,
+  "store_name": "Beahan-Lindgren",
+  "seller_name": "lkiehne1m",
+  "total_store_items": 7,
+  "total_store_sales": 1227,
+  "on_etsy_since": 2010,
+  "based_in": "Revolucion Verde",
+  "seller_response_time": "at nibh"
+}, {
+  "product_id": 60,
+  "store_id": 107,
+  "store_name": "Kautzer and Sons",
+  "seller_name": "kgoede1n",
+  "total_store_items": 5,
+  "total_store_sales": 745,
+  "on_etsy_since": 2008,
+  "based_in": "Bafilo",
+  "seller_response_time": "eget tempus"
+}, {
+  "product_id": 61,
+  "store_id": 105,
+  "store_name": "King Inc",
+  "seller_name": "asoldner1o",
+  "total_store_items": 6,
+  "total_store_sales": 226,
+  "on_etsy_since": 2013,
+  "based_in": "Kapakabisa",
+  "seller_response_time": "praesent lectus"
+}, {
+  "product_id": 62,
+  "store_id": 110,
+  "store_name": "Pagac Group",
+  "seller_name": "mconkey1p",
+  "total_store_items": 9,
+  "total_store_sales": 1238,
+  "on_etsy_since": 2014,
+  "based_in": "Velykyy Klyuchiv",
+  "seller_response_time": "non lectus"
+}, {
+  "product_id": 63,
+  "store_id": 104,
+  "store_name": "Cole-Heathcote",
+  "seller_name": "dgrote1q",
+  "total_store_items": 8,
+  "total_store_sales": 518,
+  "on_etsy_since": 2013,
+  "based_in": "Padamulya",
+  "seller_response_time": "semper porta"
+}, {
+  "product_id": 64,
+  "store_id": 108,
+  "store_name": "Mueller, Hintz and Heathcote",
+  "seller_name": "ayeliashev1r",
+  "total_store_items": 6,
+  "total_store_sales": 543,
+  "on_etsy_since": 2017,
+  "based_in": "El Zapote",
+  "seller_response_time": "est quam"
+}, {
+  "product_id": 65,
+  "store_id": 103,
+  "store_name": "Heaney, Murphy and Hilll",
+  "seller_name": "asimmonds1s",
+  "total_store_items": 10,
+  "total_store_sales": 871,
+  "on_etsy_since": 2011,
+  "based_in": "Idanre",
+  "seller_response_time": "risus dapibus"
+}, {
+  "product_id": 66,
+  "store_id": 110,
+  "store_name": "Carter, Lynch and Brekke",
+  "seller_name": "gpeniello1t",
+  "total_store_items": 5,
+  "total_store_sales": 645,
+  "on_etsy_since": 2016,
+  "based_in": "Kerep Wetan",
+  "seller_response_time": "dolor sit"
+}, {
+  "product_id": 67,
+  "store_id": 107,
+  "store_name": "Huels, Hansen and Bauch",
+  "seller_name": "bshall1u",
+  "total_store_items": 8,
+  "total_store_sales": 1397,
+  "on_etsy_since": 2017,
+  "based_in": "Miskolc",
+  "seller_response_time": "in felis"
+}, {
+  "product_id": 68,
+  "store_id": 110,
+  "store_name": "Wolf, Mayer and Hickle",
+  "seller_name": "adengel1v",
+  "total_store_items": 6,
+  "total_store_sales": 154,
+  "on_etsy_since": 2013,
+  "based_in": "La Rochelle",
+  "seller_response_time": "orci luctus"
+}, {
+  "product_id": 69,
+  "store_id": 106,
+  "store_name": "Bednar, Kemmer and Schiller",
+  "seller_name": "rmacsweeney1w",
+  "total_store_items": 7,
+  "total_store_sales": 73,
+  "on_etsy_since": 2010,
+  "based_in": "Gromnik",
+  "seller_response_time": "sapien arcu"
+}, {
+  "product_id": 70,
+  "store_id": 105,
+  "store_name": "Hirthe, Schneider and O'Connell",
+  "seller_name": "yeul1x",
+  "total_store_items": 10,
+  "total_store_sales": 403,
+  "on_etsy_since": 2017,
+  "based_in": "Vila Nova",
+  "seller_response_time": "etiam pretium"
+}, {
+  "product_id": 71,
+  "store_id": 102,
+  "store_name": "Windler and Sons",
+  "seller_name": "bfolkes1y",
+  "total_store_items": 6,
+  "total_store_sales": 1107,
+  "on_etsy_since": 2017,
+  "based_in": "Jenzan",
+  "seller_response_time": "quisque id"
+}, {
+  "product_id": 72,
+  "store_id": 103,
+  "store_name": "Powlowski, Bernier and Dooley",
+  "seller_name": "chargrave1z",
+  "total_store_items": 5,
+  "total_store_sales": 28,
+  "on_etsy_since": 2014,
+  "based_in": "Yonggu",
+  "seller_response_time": "vulputate nonummy"
+}, {
+  "product_id": 73,
+  "store_id": 107,
+  "store_name": "Davis-Stiedemann",
+  "seller_name": "anicklinson20",
+  "total_store_items": 8,
+  "total_store_sales": 1197,
+  "on_etsy_since": 2014,
+  "based_in": "Krajanbaturno",
+  "seller_response_time": "aliquam augue"
+}, {
+  "product_id": 74,
+  "store_id": 105,
+  "store_name": "Skiles, Schmidt and Feil",
+  "seller_name": "dfuzzens21",
+  "total_store_items": 8,
+  "total_store_sales": 20,
+  "on_etsy_since": 2011,
+  "based_in": "Krolevets’",
+  "seller_response_time": "nulla ultrices"
+}, {
+  "product_id": 75,
+  "store_id": 104,
+  "store_name": "Turner-Hodkiewicz",
+  "seller_name": "cocheltree22",
+  "total_store_items": 5,
+  "total_store_sales": 887,
+  "on_etsy_since": 2012,
+  "based_in": "Kurikka",
+  "seller_response_time": "eget nunc"
+}, {
+  "product_id": 76,
+  "store_id": 109,
+  "store_name": "Rolfson, Block and Schimmel",
+  "seller_name": "wgasquoine23",
+  "total_store_items": 11,
+  "total_store_sales": 983,
+  "on_etsy_since": 2009,
+  "based_in": "Bojonegoro",
+  "seller_response_time": "in consequat"
+}, {
+  "product_id": 77,
+  "store_id": 110,
+  "store_name": "Runolfsson-Harris",
+  "seller_name": "gbranch24",
+  "total_store_items": 7,
+  "total_store_sales": 58,
+  "on_etsy_since": 2010,
+  "based_in": "Itapemirim",
+  "seller_response_time": "turpis nec"
+}, {
+  "product_id": 78,
+  "store_id": 106,
+  "store_name": "Kemmer-Kuvalis",
+  "seller_name": "vcapun25",
+  "total_store_items": 2,
+  "total_store_sales": 1471,
+  "on_etsy_since": 2015,
+  "based_in": "Hacıqabul",
+  "seller_response_time": "luctus rutrum"
+}, {
+  "product_id": 79,
+  "store_id": 107,
+  "store_name": "Abshire and Sons",
+  "seller_name": "esarten26",
+  "total_store_items": 5,
+  "total_store_sales": 1458,
+  "on_etsy_since": 2019,
+  "based_in": "Tanzhesi",
+  "seller_response_time": "commodo placerat"
+}, {
+  "product_id": 80,
+  "store_id": 104,
+  "store_name": "Streich, Kub and Cummerata",
+  "seller_name": "ftembridge27",
+  "total_store_items": 9,
+  "total_store_sales": 433,
+  "on_etsy_since": 2011,
+  "based_in": "Dancheng",
+  "seller_response_time": "congue diam"
+}, {
+  "product_id": 81,
+  "store_id": 105,
+  "store_name": "Hilll Group",
+  "seller_name": "rdonnachie28",
+  "total_store_items": 2,
+  "total_store_sales": 477,
+  "on_etsy_since": 2011,
+  "based_in": "La Tuque",
+  "seller_response_time": "nisi venenatis"
+}, {
+  "product_id": 82,
+  "store_id": 110,
+  "store_name": "Bayer, Tromp and Powlowski",
+  "seller_name": "jjakubowski29",
+  "total_store_items": 8,
+  "total_store_sales": 506,
+  "on_etsy_since": 2014,
+  "based_in": "Quimper",
+  "seller_response_time": "proin eu"
+}, {
+  "product_id": 83,
+  "store_id": 101,
+  "store_name": "Swaniawski-Stracke",
+  "seller_name": "aantonopoulos2a",
+  "total_store_items": 8,
+  "total_store_sales": 79,
+  "on_etsy_since": 2018,
+  "based_in": "Maracanaú",
+  "seller_response_time": "porta volutpat"
+}, {
+  "product_id": 84,
+  "store_id": 106,
+  "store_name": "Raynor, Waelchi and Carroll",
+  "seller_name": "mlumsdall2b",
+  "total_store_items": 9,
+  "total_store_sales": 1000,
+  "on_etsy_since": 2014,
+  "based_in": "Cherryville",
+  "seller_response_time": "tincidunt in"
+}, {
+  "product_id": 85,
+  "store_id": 101,
+  "store_name": "Hills and Sons",
+  "seller_name": "mharesnaip2c",
+  "total_store_items": 2,
+  "total_store_sales": 1020,
+  "on_etsy_since": 2008,
+  "based_in": "Leżajsk",
+  "seller_response_time": "semper est"
+}, {
+  "product_id": 86,
+  "store_id": 105,
+  "store_name": "Christiansen and Sons",
+  "seller_name": "vrichford2d",
+  "total_store_items": 2,
+  "total_store_sales": 787,
+  "on_etsy_since": 2014,
+  "based_in": "Macau",
+  "seller_response_time": "donec posuere"
+}, {
+  "product_id": 87,
+  "store_id": 105,
+  "store_name": "Nader, Collins and Dach",
+  "seller_name": "sworgan2e",
+  "total_store_items": 7,
+  "total_store_sales": 1455,
+  "on_etsy_since": 2019,
+  "based_in": "Hrazdan",
+  "seller_response_time": "vestibulum velit"
+}, {
+  "product_id": 88,
+  "store_id": 106,
+  "store_name": "O'Conner LLC",
+  "seller_name": "sede2f",
+  "total_store_items": 2,
+  "total_store_sales": 651,
+  "on_etsy_since": 2012,
+  "based_in": "Yerofey Pavlovich",
+  "seller_response_time": "felis donec"
+}, {
+  "product_id": 89,
+  "store_id": 109,
+  "store_name": "Bashirian, Crist and Maggio",
+  "seller_name": "bmanjot2g",
+  "total_store_items": 7,
+  "total_store_sales": 44,
+  "on_etsy_since": 2009,
+  "based_in": "Jilib",
+  "seller_response_time": "lobortis sapien"
+}, {
+  "product_id": 90,
+  "store_id": 103,
+  "store_name": "Ruecker-Metz",
+  "seller_name": "gwickmann2h",
+  "total_store_items": 11,
+  "total_store_sales": 238,
+  "on_etsy_since": 2011,
+  "based_in": "Norcasia",
+  "seller_response_time": "turpis elementum"
+}, {
+  "product_id": 91,
+  "store_id": 110,
+  "store_name": "Mueller-Lang",
+  "seller_name": "hpetcher2i",
+  "total_store_items": 11,
+  "total_store_sales": 910,
+  "on_etsy_since": 2009,
+  "based_in": "Debar",
+  "seller_response_time": "mus vivamus"
+}, {
+  "product_id": 92,
+  "store_id": 102,
+  "store_name": "Kirlin, Murray and Fadel",
+  "seller_name": "chenrion2j",
+  "total_store_items": 11,
+  "total_store_sales": 1360,
+  "on_etsy_since": 2012,
+  "based_in": "Mucuri",
+  "seller_response_time": "amet nunc"
+}, {
+  "product_id": 93,
+  "store_id": 109,
+  "store_name": "Emard-Connelly",
+  "seller_name": "mocrevy2k",
+  "total_store_items": 2,
+  "total_store_sales": 1388,
+  "on_etsy_since": 2014,
+  "based_in": "Hawassa",
+  "seller_response_time": "justo sollicitudin"
+}, {
+  "product_id": 94,
+  "store_id": 102,
+  "store_name": "Feeney-Macejkovic",
+  "seller_name": "okopps2l",
+  "total_store_items": 4,
+  "total_store_sales": 73,
+  "on_etsy_since": 2018,
+  "based_in": "Reutlingen",
+  "seller_response_time": "quis tortor"
+}, {
+  "product_id": 95,
+  "store_id": 104,
+  "store_name": "Bartoletti Group",
+  "seller_name": "ihutten2m",
+  "total_store_items": 3,
+  "total_store_sales": 997,
+  "on_etsy_since": 2014,
+  "based_in": "Kamionka Wielka",
+  "seller_response_time": "sagittis dui"
+}, {
+  "product_id": 96,
+  "store_id": 106,
+  "store_name": "Mertz Inc",
+  "seller_name": "kapple2n",
+  "total_store_items": 9,
+  "total_store_sales": 1234,
+  "on_etsy_since": 2012,
+  "based_in": "Tall Tamr",
+  "seller_response_time": "ut volutpat"
+}, {
+  "product_id": 97,
+  "store_id": 101,
+  "store_name": "Ritchie, Feil and Schaden",
+  "seller_name": "bilsley2o",
+  "total_store_items": 2,
+  "total_store_sales": 725,
+  "on_etsy_since": 2015,
+  "based_in": "Yangxiang",
+  "seller_response_time": "eu mi"
+}, {
+  "product_id": 98,
+  "store_id": 104,
+  "store_name": "Gutkowski, Gulgowski and Dare",
+  "seller_name": "amanvell2p",
+  "total_store_items": 2,
+  "total_store_sales": 1160,
+  "on_etsy_since": 2020,
+  "based_in": "Błędów",
+  "seller_response_time": "hendrerit at"
+}, {
+  "product_id": 99,
+  "store_id": 109,
+  "store_name": "Macejkovic-Koch",
+  "seller_name": "fbransom2q",
+  "total_store_items": 9,
+  "total_store_sales": 717,
+  "on_etsy_since": 2015,
+  "based_in": "San Francisco Zapotitlán",
+  "seller_response_time": "aenean auctor"
+}, {
+  "product_id": 100,
+  "store_id": 104,
+  "store_name": "Waelchi LLC",
+  "seller_name": "smacmakin2r",
+  "total_store_items": 4,
+  "total_store_sales": 1508,
+  "on_etsy_since": 2009,
+  "based_in": "Glencoe",
+  "seller_response_time": "at turpis"
+}]

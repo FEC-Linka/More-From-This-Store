@@ -1,11 +1,12 @@
 {
-  "productId": 1,
-  "storeId": 101,
-  "storeName": "Stuff Mart",
-  "sellerName": "Shaveah Tranea",
-  "totalStoreItems": 6,
-  "totalStoreSales": 114,
-  "onEtsySince": 2015,
-  "basedIn": "Seattle, WA",
-  "sellerResponseTime": "1-2 hours"
+  "product_id": 1,
+  "store_id": 103,
+  "store_name": "Buckridge and Sons",
+  "seller_name": "ShaveahTranea",
+  "total_store_items": 6,
+  "total_store_sales": 24,
+  "on_etsy_since": 2015,
+  "based_in": "Wichita",
+  "seller_response_time": "1-2 hours"
 }
+

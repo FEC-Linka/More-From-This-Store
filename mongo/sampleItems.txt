@@ -1,24 +1,24 @@
 db.itemStoreInfo.insert({
-  "productId": 1,
-  "storeId": 101,
-  "storeName": "Stuff Mart",
-  "sellerName": "Shaveah Tranea",
-  "totalStoreItems": 6,
-  "totalStoreSales": 114,
-  "onEtsySince": 2015,
-  "basedIn": "Seattle, WA",
-  "sellerResponseTime": "1-2 hours"
+  "product_id": 1,
+  "store_id": 101,
+  "store_name": "Stuff Mart",
+  "seller_name": "ShaveahTranea",
+  "total_store_items": 6,
+  "total_store_sales": 114,
+  "on_etsy_since": 2015,
+  "based_in": "Seattle",
+  "seller_response_time": "24 hours"
 })
 
 db.itemStoreInfo.insert({
-  "productId": 2,
-  "storeId": 102,
-  "storeName": "Stuffingtons",
-  "sellerName": "Ashley Marie",
-  "totalStoreItems": 4,
-  "totalStoreSales": 25,
-  "onEtsySince": 2020,
-  "basedIn": "Salem, OR",
-  "sellerResponseTime": "1-2 hours"
+  "product_id": 2,
+  "store_id": 102,
+  "store_name": "Stuffingtons",
+  "seller_name": "AshleyMarie",
+  "total_store_items": 4,
+  "total_store_sales": 25,
+  "on_etsy_since": 2020,
+  "based_in": "Salem",
+  "seller_response_time": "1-2 hours"
 })
 
