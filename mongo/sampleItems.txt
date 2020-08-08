@@ -2,20 +2,20 @@ db.itemStoreInfo.insert({
   "product_id": 1,
   "store_id": 104,
   "store_name": "Fisher Inc",
-  "seller_name": "twykes0",
+  "seller_name": "ShaveahTranea",
   "total_store_items": 3,
   "total_store_sales": 279,
   "on_etsy_since": 2015,
   "based_in_city": "Denver",
   "based_in_state": "CO",
-  "seller_response_time": "1-2 days"
+  "seller_response_time": "1-2 hours"
 })
 
 db.itemStoreInfo.insert({
   "product_id": 2,
   "store_id": 109,
   "store_name": "Lockman Group",
-  "seller_name": "rpiris1",
+  "seller_name": "AshleyMarie",
   "total_store_items": 3,
   "total_store_sales": 887,
   "on_etsy_since": 2013,
